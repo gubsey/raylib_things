@@ -5,6 +5,8 @@ import "core:math"
 import "core:strings"
 import rl "vendor:raylib"
 
+// some math https://www.desmos.com/calculator/w4tpmvhulw
+
 W :: 1000
 H :: W
 PI :: 3.14159265358979
